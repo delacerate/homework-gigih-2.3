@@ -1,0 +1,13 @@
+{
+  "playlist": [
+    {
+      "title": "Song Title",
+      "artists": [
+        "Artist 1",
+        "Artist 2"
+      ],
+      "url": "https://spotify.com/track/123456",
+      "id": 1
+    }
+  ]
+}
